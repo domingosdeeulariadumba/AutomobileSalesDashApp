@@ -27,7 +27,7 @@ This dashboard gives an overview of global automobile statistics, including:
 ## Dataset
 
 The dataset used in this project is part of the IBM Data Analyst Certification and spans from 1980 to 2023. It contains attributes such as automobile sales, vehicle type, consumer confidence, GDP, unemployment rate, and other related factors.
-This is publicly available and can be downloaded  [here](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-DV0101EN-SkillsNetwork/Data%20Files/historical_automobile_sales.csv).
+This is publicly available and can be downloaded  [here](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-DV0101EN-SkillsNetwork/Data%20Files/historical_automobile_sales.csv) 📥.
 
 ---
 

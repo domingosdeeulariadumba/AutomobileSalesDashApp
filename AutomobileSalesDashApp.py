@@ -165,8 +165,3 @@ def update_output_container(input_year, selected_statistics):
 
     else:
         return None
-
-
-# Running the Dash app
-if __name__ == '__main__':
-    app.run(host = '0.0.0.0')

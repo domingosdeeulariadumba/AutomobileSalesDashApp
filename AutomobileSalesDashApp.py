@@ -57,7 +57,7 @@ app.layout = html.Div([
         html.Div(id = 'output-container', className = 'chart-grid', style = {'width': '100%'}),
     ])
 ],
-    style = {'width': '80%','margin': '0 auto'}
+    style = {'width': '75%','margin': '0 auto'}
     )
 
 

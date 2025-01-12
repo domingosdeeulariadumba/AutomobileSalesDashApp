@@ -36,7 +36,7 @@ This is publicly available and can be downloaded  [here](https://cf-courses-data
 * Interactive Visualizations: The app enables users to explore trends and patterns using dynamic charts.
 * Comprehensive Analysis: Both dashboards provide key insights tailored to specific periods and global trends.
 
-Access the Dash App [in action]('https://automobilesalesdashboard.onrender.com/') or view the notebook [in action]('https://github.com/domingosdeeulariadumba/AutomobileSalesDashApp/blob/main/AutomobileSalesDashAppNotebook.ipynb').
+Access the Dash App [in action](https://automobilesalesdashboard.onrender.com/) or view the notebook [here](https://github.com/domingosdeeulariadumba/AutomobileSalesDashApp/blob/main/AutomobileSalesDashAppNotebook.ipynb) 👈🏾.
 
 ---
 
@@ -56,7 +56,7 @@ This project and dataset are licensed under the MIT License.
 
       NonCommercial: Do not use the material for commercial purposes.
 
-You can view the full license text [here]('https://github.com/domingosdeeulariadumba/AutomobileSalesDashApp/blob/main/LICENSE').
+You can view the full license text [here](https://github.com/domingosdeeulariadumba/AutomobileSalesDashApp/blob/main/LICENSE) 👈🏾.
 
 ---
 

@@ -23,7 +23,7 @@ app.title = 'Automobile Statistics Dashboard'
 
 # Creating the dropdown menu options
 dropdown_options = [
-    {'label': 'Global statistics', 'value': 'Global Statistics'},
+    {'label': 'Global Statistics', 'value': 'Global Statistics'},
     {'label': 'Recession Statistics', 'value': 'Recession Statistics'}
 ]
 
@@ -127,7 +127,7 @@ def update_output_container(input_year, selected_statistics):
             ]
             
     # Plots for annual statistics
-    elif selected_statistics == 'Yearly Statistics':
+    elif selected_statistics == 'Global Statistics':
                
         # Plot 1: Line plot for displaying the annual sales trend
         total_sales_year = df.groupby('Year')['Automobile Sales'].mean().reset_index()
